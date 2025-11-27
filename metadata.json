@@ -1,0 +1,5 @@
+{
+  "name": "ProBet AI",
+  "description": "A smart soccer betting companion that leverages Gemini with Google Search to fetch real-time fixtures and provide deep analysis and high-probability predictions across multiple markets.",
+  "requestFramePermissions": []
+}
